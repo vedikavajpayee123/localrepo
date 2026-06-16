@@ -1,3 +1,7 @@
 p{
     font-weight: bolder;color:aquamarine;text-transform: capitalize;
 }
+pre{
+    margin-top: 10px;
+    font-family: 'Lucida Sans';
+}
